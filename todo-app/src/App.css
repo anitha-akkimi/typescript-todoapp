@@ -1,0 +1,18 @@
+.form-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+.text-filed {
+
+  width: 250px;
+  margin: 10px;
+  
+}
+.btn-field {
+  height: 40px;
+  width: 100px;
+  margin: 10px;
+}
